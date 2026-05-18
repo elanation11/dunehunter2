@@ -98,3 +98,4 @@ public class AtesSistemi : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name); 
     }
 }
+// Ateş sistemi eklendi.
