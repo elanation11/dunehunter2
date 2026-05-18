@@ -8,3 +8,4 @@ public class SahneKontrol : MonoBehaviour
         SceneManager.LoadScene("SampleScene");
     }
 }
+// Sahne kontrolü eklendi.
