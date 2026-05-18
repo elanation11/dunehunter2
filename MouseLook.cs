@@ -22,3 +22,4 @@ public class MouseLook : MonoBehaviour
         body.Rotate(Vector3.up * rotX);
     }
 }
+// Mouse look sistemi eklendi.
