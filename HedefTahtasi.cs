@@ -58,3 +58,4 @@ public class HedefTahtasi : MonoBehaviour
         Destroy(gameObject);
     }
 }
+//Hedef tahtası eklendi.
