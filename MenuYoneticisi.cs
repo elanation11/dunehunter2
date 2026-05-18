@@ -28,3 +28,4 @@ public class MenuYoneticisi : MonoBehaviour
         else AudioListener.volume = 0f; 
     }
 }
+// Menü yöneticisi eklendi.
